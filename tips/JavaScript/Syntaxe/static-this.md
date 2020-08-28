@@ -24,6 +24,6 @@ class FooBar {
 
 Unknow spec 😅 but actually it works!
 
-## Author
+## Contributors
 
 - [Ayfri](https://github.com/Ayfri)
