@@ -1,0 +1,20 @@
+{
+  "name": "tips",
+  "version": "1.0.0",
+  "main": "index.md",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "keywords": [],
+  "author": "JS-Labs <https://discord.gg/3vC2XWK>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Les-Laboratoires-JS/tips.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Les-Laboratoires-JS/tips/issues"
+  },
+  "homepage": "https://github.com/Les-Laboratoires-JS/tips#readme",
+  "description": ""
+}

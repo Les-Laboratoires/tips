@@ -1,0 +1,1 @@
+// build index.md from ./tips
