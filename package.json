@@ -1,7 +1,7 @@
 {
   "name": "tips",
   "version": "1.0.0",
-  "main": "index.md",
+  "main": "readme.md",
   "scripts": {
     "build": "node build.js"
   },

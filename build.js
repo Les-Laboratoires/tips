@@ -1,1 +1,1 @@
-// build index.md from ./tips
+// build readme.md from ./tips
