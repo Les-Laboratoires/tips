@@ -22,7 +22,11 @@ class FooBar {
 
 ## Specification
 
-Unknow spec 😅 but actually it works!
+- ES6+
+
+## Annexes
+
+- https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Classes/static
 
 ## Contributors
 
